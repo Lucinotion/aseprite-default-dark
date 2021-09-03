@@ -1,2 +1,2 @@
 # aseprite-default-dark
-Aseprite's default theme but dark
+A dark theme for Aseprite 1.2.29+ based on the default theme by Ilija Melentijevic and David Capello
